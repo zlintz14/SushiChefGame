@@ -29,4 +29,4 @@ to make the sushi to go along with the design I decided on for the program.
 # The jar file is the executable jar for this program so download that if you just wish to use the program.
 
 # Enjoy!
-![alt text](https://media.giphy.com/media/YYICBjQ6EqHss/giphy.gif)
+![alt text](https://media.giphy.com/media/Qjt1pbcM5vMPe/giphy.gif)
